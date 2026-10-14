@@ -3,7 +3,7 @@
 <img width="1173" height="588" alt="Bank-analysis-Dashboard-image" src="https://github.com/user-attachments/assets/406c9421-5be4-4866-999a-c7a65d67cd7b" />
 
 # Tableau Dashboards 2
-<img width="1173" height="588" alt="Bank-analysis-Dashboard-image" src="https://github.com/user-attachments/assets/aa3ae4c9-09e8-49d6-bcab-175bcab6866a" />
+<img width="1329" height="569" alt="Credit-Debitcard-Dashboard-image" src="https://github.com/user-attachments/assets/56514d4b-4736-4f0e-b6ed-034aae2b2d68" />
 
 
 Two Tableau workbooks with calculated fields, KPI worksheets and a final dashboard.
